@@ -22,8 +22,21 @@ font-size: 20tx;
     padding:20px;
 }
 h2{
+    
     text-align: center;
 }
+
 em strong{
     color:red
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemebeneficios {
+    width: 50%;
 }
