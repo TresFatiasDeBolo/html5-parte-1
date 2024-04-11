@@ -1,3 +1,23 @@
 header {
     background: #bbbb;
 }
+
+nav {
+    position: absolute;
+    top:110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav li {
+text-transform: uppercase;
+color: #000;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;
+}
+
