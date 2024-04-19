@@ -13,11 +13,21 @@ nav li {
     margin: 0 0 0 15px;
 
 }
-nav li {
+nav a{
 text-transform: uppercase;
 color: #000;
 font-weight: bold;
 font-size: 22px;
 text-decoration: none;
 }
+nav a:hover{ /*tres fatias de torta*/
 
+    color: #c78c19c;
+
+}
+.produtos{
+
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
